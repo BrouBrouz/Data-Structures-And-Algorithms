@@ -1,0 +1,7 @@
+D:\ESILV ANNEE 3\Varna University of Management\4 - Data Structures and Algorithms\DSA_lesson2\DSA_lesson2\bin\Debug\DSA_lesson2.exe.config
+D:\ESILV ANNEE 3\Varna University of Management\4 - Data Structures and Algorithms\DSA_lesson2\DSA_lesson2\bin\Debug\DSA_lesson2.exe
+D:\ESILV ANNEE 3\Varna University of Management\4 - Data Structures and Algorithms\DSA_lesson2\DSA_lesson2\bin\Debug\DSA_lesson2.pdb
+D:\ESILV ANNEE 3\Varna University of Management\4 - Data Structures and Algorithms\DSA_lesson2\DSA_lesson2\obj\Debug\DSA_lesson2.csprojAssemblyReference.cache
+D:\ESILV ANNEE 3\Varna University of Management\4 - Data Structures and Algorithms\DSA_lesson2\DSA_lesson2\obj\Debug\DSA_lesson2.csproj.CoreCompileInputs.cache
+D:\ESILV ANNEE 3\Varna University of Management\4 - Data Structures and Algorithms\DSA_lesson2\DSA_lesson2\obj\Debug\DSA_lesson2.exe
+D:\ESILV ANNEE 3\Varna University of Management\4 - Data Structures and Algorithms\DSA_lesson2\DSA_lesson2\obj\Debug\DSA_lesson2.pdb
